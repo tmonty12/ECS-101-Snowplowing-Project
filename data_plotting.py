@@ -1,5 +1,5 @@
 import matplotlib.pyplot as plt
-from test import snowplow_program
+from snowplowProgram import snowplow_program
 import numpy as np
 
 sample_edges = [(0,1),(1,2),(1,3),(1,4),(2,3),(3,4),(2,5),(3,5),(4,5)]
